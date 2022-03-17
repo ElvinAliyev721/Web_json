@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Abu",
+    "species":"cat",
+    "favFood":"fish"
+  },
+  {
+    "name":"Aba",
+    "species":"dog",
+    "favFood":"cat"
+  },
+  {
+    "name":"Bob",
+    "species":"dog",
+    "favFood":"cat"
+  },
+  {
+    "name":"Alex",
+    "species":"dog",
+    "favFood":"cat"
+  }
+]
